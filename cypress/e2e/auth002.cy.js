@@ -12,3 +12,5 @@ describe('template spec', () => {
     cy.contains('.avtorization > .input-shablon > h2', 'ავტორიზაცია').should('be.visible');
   })
   })
+
+  // არასწორი მონაცემებით ავტორიზაცია
